@@ -25,4 +25,4 @@ To run the code, open cmd and go to the path where source code is located and en
 That's it!!!
 It will automatically join n leave classes by following timetable or schedule
 
-*Extensions and changes are applicable, if any
+*_Extensions and changes are applicable, if any_
