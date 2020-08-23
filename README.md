@@ -2,7 +2,7 @@
 Automatically attend your scheduled meetings on time
 
 # Prerequisites
-*python3
+* python3
 
 # installation
 *Download zip file and put your files in these path,
