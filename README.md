@@ -22,3 +22,5 @@ To run the code, open cmd and go to the path where source code is located and en
     _C:\Users\username\ZOOM> python Attend.py
     
 That's it
+
+*Extensions and changes are applicable, if any
