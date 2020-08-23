@@ -19,6 +19,7 @@ To install SCHEDULE:
       pip install schedule
       
 To run the code, open cmd and go to the path where source code is located and enter:
+
     _C:\Users\username\ZOOM> python Attend.py
     
 That's it
