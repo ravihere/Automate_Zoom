@@ -4,7 +4,7 @@ import time
 from datetime import datetime
 import calendar
 from classes import c1,c2,c3,c4
-meettime=3000
+meettime=3000 #seconds for 50 min
 def findDay(): 
     now=datetime.today().strftime('%Y-%m-%d')
     year,month,day=now.split("-")
