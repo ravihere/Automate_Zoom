@@ -6,7 +6,7 @@ Automatically attend your scheduled meetings on time
 # For Windows
 ## Installation
 * Download zip file and put your files in these path,
-    _C:\Users\username\ZOOM_
+    _C:\Users\username\Desktop\_
     
 * Open cmd in windows, follow below procedure
 
@@ -20,7 +20,7 @@ To install SCHEDULE:
       
 To run the code, open cmd and go to the path where source code is located and enter:
 
-    _C:\Users\username\ZOOM> python Attend.py
+    _C:\Users\username\Desktop\Automate_Zoom> python Attend.py
     
 *_you have to execute code atleast 1 min before specified time_
 
