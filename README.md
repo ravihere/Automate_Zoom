@@ -7,7 +7,7 @@ Automatically attend your scheduled meetings on time
 ## Installation
 * Download zip file and put your files in these path,
     _C:\Users\username\Desktop\_
-    
+
 * Open cmd in windows, follow below procedure
 
 To install PYAUTOGUI:
@@ -22,11 +22,12 @@ To run the code, open cmd and go to the path where source code is located and en
 
     _C:\Users\username\Desktop\Automate_Zoom> python Attend.py
     
-*_you have to execute code atleast 1 min before specified time_
+Make sure updation of your timetable in classes.py accordingly
 
 That's All!!!
 It will automatically join n leave classes by following timetable or schedule
 
+*_you have to execute code atleast 1 min before specified time_
 *_Extensions and changes are applicable, if any_
 
 ## For Linux
