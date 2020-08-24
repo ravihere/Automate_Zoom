@@ -74,4 +74,4 @@ schedule.every().day.at("12:05").do(Class4)
 while True: 
 	schedule.run_pending()
 	time.sleep(1)
-	print("Press Ctrl+C to Abort' Mate")
+print("Press Ctrl+C to Abort' Mate")
