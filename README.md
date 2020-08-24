@@ -4,7 +4,7 @@ Automatically attend your scheduled meetings on time
 # Prerequisites
 * python3
 # For Windows
-## installation
+## Installation
 * Download zip file and put your files in these path,
     _C:\Users\username\ZOOM_
     
