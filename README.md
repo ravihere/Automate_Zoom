@@ -28,6 +28,7 @@ That's All!!!
 It will automatically join n leave classes by following timetable or schedule
 
 *_you have to execute code atleast 1 min before specified time_
+
 *_Extensions and changes are applicable, if any_
 
 ## For Linux
